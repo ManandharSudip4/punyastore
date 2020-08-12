@@ -1,0 +1,2 @@
+Aug 12, 2020 01:13:09 pm : (getData) : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'where clause'Aug 12, 2020 01:32:41 pm : (run Query) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'email'
+Aug 12, 2020 01:32:43 pm : (run Query) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'email'
